@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+section {
+  width: 800px;
+}
+
+ul {
+  margin: 0 0 4px;
+}
+
+code.highlighter-rouge {
+  background-color: #dddddd;
+  padding: 0px 4px 0px 4px;
+}
+
+.highlight {
+  background-color: #dddddd;
+}
+
+.wrapper {
+  width: 1080px;
+  margin: 0
+}
